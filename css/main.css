@@ -59,15 +59,8 @@
   background-image: url("http://via.placeholder.com/1200x1200");
 }
 
-.fullscreen-bg-1 {
-  background-image: url("http://via.placeholder.com/1920x1080");
-}
 
-.fullscreen-bg-2 {
-  background-image: url("http://via.placeholder.com/1920x1080");
-}
-
-.fullscreen-bg-3 {
+.fullscreen-bg-1 /* background for the whole page */ {
   background-image: url("http://via.placeholder.com/1920x1080");
 }
 
