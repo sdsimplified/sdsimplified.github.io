@@ -45,10 +45,10 @@
   <rect x="0" y="0" width="309" height="267"/>
 </clipPath>
 <g id="surface8" clip-path="url(#clip1)">
-<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+<g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
   <use xlink:href="#glyph0-0" x="0.550572" y="168.915972"/>
 </g>
-<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+<g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="154.334184" y="168.915972"/>
 </g>
 </g>
