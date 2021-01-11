@@ -60,8 +60,8 @@
 }
 
 
-.fullscreen-bg-1 /* background for the whole page */ {
-  background-image: url("http://via.placeholder.com/1920x1080");
+.fullscreen-bg /* background for the whole page */ {
+  background-image: url("../img/backgrounds/sitebackground.jpg");
 }
 
 .swiper-slide-1 {
