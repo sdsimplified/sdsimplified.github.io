@@ -386,7 +386,7 @@ $(function() {
             }
           },
           "opacity": {
-            "value": 0.07313181133058181,
+            "value": 0.09313181133058181,
             "random": false,
             "anim": {
               "enable": false,
