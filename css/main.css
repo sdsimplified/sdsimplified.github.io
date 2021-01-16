@@ -1240,8 +1240,8 @@ form .inputs-description {
   width: auto;
   height: auto;
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 30%;
+  top: 30%;
   bottom: auto;
   right: auto;
   -webkit-transform: translateX(-50%) translateY(-50%);
