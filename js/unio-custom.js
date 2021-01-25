@@ -182,7 +182,7 @@ $(function() {
   // --------------------------------------------- //
   $('.notify-form').ajaxChimp({
     callback: mailchimpCallback,
-    url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=54a7906900'
+    url: 'https://sdsimplified.us7.list-manage.com/subscribe/post?u=321136f5b782539ff6c4e21d5&amp;id=aeeddefe6f'
   });
 
   function mailchimpCallback(resp) {
