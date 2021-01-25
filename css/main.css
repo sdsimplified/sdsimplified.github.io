@@ -85,23 +85,24 @@
 }
 
 .menu-image-2 {
-  background-image: url("http://via.placeholder.com/300x1200");
+  background-image: url("../img/menu-images/Pen1.jpg");
 }
+
 
 .menu-image-3 {
-  background-image: url("http://via.placeholder.com/300x1200");
+  background-image: url("../img/menu-images/Pen2.jpg");
 }
 
-.menu-image-4 {
-  background-image: url("http://via.placeholder.com/300x1200");
+.menu-image-4 { 
+  background-image: url("../img/menu-images/Pen3.jpg");
 }
 
 .menu-image-5 {
-  background-image: url("http://via.placeholder.com/300x1200");
+  background-image: url("../img/menu-images/Pen4.jpg");
 }
 
 .menu-image-6 {
-  background-image: url("http://via.placeholder.com/300x1200");
+  background-image: url("../img/menu-images/Pen5.jpg");
 }
 
 /* ------------------------------------------------*/
