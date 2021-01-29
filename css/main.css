@@ -3251,8 +3251,6 @@ form .inputs-description {
 
 .my-gallery figure figcaption {
   position: absolute;
-  bottom: 3.3rem;
-  left: 3.3rem;
   width: -webkit-calc(100% - 6.6rem);
   width: -moz-calc(100% - 6.6rem);
   width: calc(100% - 6.6rem);
