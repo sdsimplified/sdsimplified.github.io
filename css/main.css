@@ -3289,7 +3289,7 @@ form .inputs-description {
   }
   .my-gallery figure .works-link {
     position: relative;
-    float: left;
+    float: none;
     width: 100%;
     height: 100%;
     overflow: hidden;
