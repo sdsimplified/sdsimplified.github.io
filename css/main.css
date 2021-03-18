@@ -2625,8 +2625,8 @@ form .inputs-description {
 /* ------------------------------------------------*/
 .content-section {
   position: absolute;
-  top: 105px;
-  left: 105px;
+  top: 100px;
+  left: 100px;
   width: 100%;
   height: auto;
   padding-top: 100px;
