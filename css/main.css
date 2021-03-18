@@ -2629,7 +2629,7 @@ form .inputs-description {
   left: 100px;
   width: 100%;
   height: auto;
-  padding-top: 100px;
+  padding-top: 0px;
   background-color: #061125;
   overflow-y: auto;
   z-index: 3;
