@@ -1,0 +1,54 @@
+# Site settings
+name: Ariv Gupta
+title: Ariv Gupta | Incubator of Happiness
+description: A guy who just loves building things that help people live smileyer lives
+url: https://arivgupta.com/
+baseurl: ''
+email: arivgups@gmail.com
+cover: https://arivgupta.github.io/img/og.png
+logo: https://arivgupta.github.io/img/icon.png
+resume: https://arivgupta.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:arivgups@gmail.com
+  - title: blog
+    url: http://blog.arivgupta.com
+  - title: podcast
+    url: http://podcast.arivgupta.com
+  - title: writing
+    url: https://writing.arivgupta.com
+  - title: photos
+    url: http://photos.arivgupta.com
+  - title: code
+    url: http://code.arivgupta.com
+  - title: ig
+    url: http://ig.arivgupta.com
+  - title: twt
+    url: http://twt.arivgupta.com
+  - title: in
+    url: http://in.arivgupta.com
+    
+#Google Analytics
+google_analytics: UA-184194234-1
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
