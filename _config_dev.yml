@@ -1,35 +1,24 @@
 # Site settings
-name: Ariv Gupta
-title: Ariv Gupta | Incubator of Happiness
-description: A guy who just loves building things that help people live smileyer lives
-url: https://arivgupta.com/
+name: SD Simplified
+title: Speech & Debate Simplified
+description: The first online Speech & Debate course built to provide you with a low-impact intro to Speech & Debate
+url: https://sdsimplified.com/
 baseurl: ''
 email: arivgups@gmail.com
-cover: https://arivgupta.github.io/img/og.png
-logo: https://arivgupta.github.io/img/icon.png
-resume: https://arivgupta.github.io/resume.pdf
+cover: https://sdsimplified.github.io/img/og.png
+logo: https://sdsimplified.github.io/img/icon.png
+resume: https://sdsimplified.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:arivgups@gmail.com
-  - title: blog
-    url: http://blog.arivgupta.com
-  - title: podcast
-    url: http://podcast.arivgupta.com
-  - title: writing
-    url: https://writing.arivgupta.com
-  - title: photos
-    url: http://photos.arivgupta.com
-  - title: code
-    url: http://code.arivgupta.com
-  - title: ig
-    url: http://ig.arivgupta.com
-  - title: twt
-    url: http://twt.arivgupta.com
-  - title: in
-    url: http://in.arivgupta.com
-    
+    url: mailto:sdsimplified@gmail.com
+  - title: instagram
+    url: https://www.instagram.com/sdsimplified/
+  - title: twitter
+    url: https://twitter.com/SimplifiedSD
+  - title: facebook
+    url: https://www.facebook.com/SD-Simplified-104980451611550
 #Google Analytics
-google_analytics: UA-184194234-1
+google_analytics: UA-203130337-1
 
 # Build settings
 markdown: kramdown
