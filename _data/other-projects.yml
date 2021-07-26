@@ -18,66 +18,12 @@
 
 - name: Aditya Chordiya
   url: https://linkedin.com/
-  description: Bio Coming Soon...
+  description: I’m Aditya Chordiya, a sophomore who goes to James Logan High School. I specialize in congressional debate and have competed all over the national circuit including major tournament like the Tournament of Champions. 
   used:
-    - thing: Speech, Congress, Coach
+    - thing: Speech, Platform, Coach
 
 - name: Theodore Gercken
   url: https://linkedin.com/
-  description: Bio Coming Soon...
+  description: Theodore Gercken is a sophomore from College Prep in California and has been competing in Extemporaneous Speech since his freshman year. This year, he qualified for every major championship in his event, including a double qualification to Nationals (IX and DX). He also works as the Extemporaneous captain at his school to help build up the team by recruiting and encouraging more first-year students to join the event. In his spare time, he can usually be found hanging out with his poodle or doing various jobs for Libertarian organizations around the country.
   used:
     - thing: Extemp, Coach
-
-- name: Caleb Hui
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Debate, Extemp, Coach
-
-- name: Luciann Nguyen
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Debate, Policy, Coach
-    
-- name: Mesha Mittenesala
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Speech, Congress, Coach
-
-- name: Riddhi Kulkarni
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Speech, DI, Coach
-
-- name: Veda Gottumukala
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Speech, HI, Coach
-
-- name: Samira Doshi
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Public Forum, Coach
-
-- name: Daniel Candia
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Public Forum, Coach
-
-- name: Rishit Pradhan
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Lincoln Douglass, Coach
-
-- name: Ashley Kim
-  url: https://linkedin.com/
-  description: Bio Coming Soon...
-  used:
-    - thing: Oratory, Coach
