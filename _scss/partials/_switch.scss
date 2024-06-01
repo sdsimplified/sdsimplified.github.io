@@ -1,14 +1,17 @@
 .header {
+  padding: 50px 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 80px;
-  background-color: #f8f8f8; // Adjust the background color as needed
+  
   @include desktop {
-    padding: 20px 50px;
+    padding: 50px;
+  }
+  @include weird-medium {
+    display: block;
   }
   @include mobile {
-    padding: 20px 30px;
+    padding: 50px 30px;
   }
 
   &__nav {
