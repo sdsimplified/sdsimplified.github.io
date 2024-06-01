@@ -1,3 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+  @include desktop {
+    padding: 20px 50px;
+  }
+  @include mobile {
+    padding: 20px 30px;
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: $blue;
+    @include mobile {
+      font-size: 1.2rem;
+    }
+  }
+}
+
 .switch-wrapper {
   display: flex;
   justify-content: center;

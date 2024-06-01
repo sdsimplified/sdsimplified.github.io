@@ -1,16 +1,4 @@
-<header class="footer">
-  <div class="footer__copyright">
-    <div class="top">
-      <span>Nice to Meet You</span>
-    </div>
-    <div class="bottom">
-      <span><img class="emoji" src="{{site.baseurl}}/img/emojis/logo.png" alt="emoji"> Simplified</span> 
-      <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
-      <span>2024</span>
-      <br>
-      <span style="font-size:11px;">Designed By <a class="underline-link" href="http://github.com/bchiang7" target="_blank">Brittany Chiang</a></span>
-    </div>
-  </div>
+<!--<footer class="header">
   <div class="footer__links">
     {% for link in site.social %}
     <a href="{{link.url}}" target="_blank" title="{{link.title}}">
@@ -19,7 +7,8 @@
     </a>
     {% endfor %}
   </div>
-</header>
+</footer>
+
 
 <div class="switch-wrapper">
   <div class="sun"></div>
@@ -28,4 +17,16 @@
     <label for="switch" id="toggle">Toggle</label>
   </div>
   <div class="moon"></div>
+</div>-->
+
+<div class="header">
+  <div class="header__title">Your Header Title</div>
+  <div class="switch-wrapper">
+    <div class="sun"></div>
+    <div class="toggle-wrapper">
+      <input type="checkbox" id="switch">
+      <label for="switch"></label>
+    </div>
+    <div class="moon"></div>
+  </div>
 </div>
