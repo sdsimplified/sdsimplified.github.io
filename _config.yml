@@ -28,6 +28,7 @@ navbar:
     url: https://sdsimplified.setmore.com/beta
   - title: about us
     url: https://www.sdsimplified.com/about
+    
 #Google Analytics
 google_analytics: UA-203130337-1
 
