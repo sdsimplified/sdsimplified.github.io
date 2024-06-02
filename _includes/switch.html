@@ -1,27 +1,19 @@
-<div class="switch-wrapper">
+<!--<div class="switch-wrapper">
   <div class="sun"></div>
   <div class="toggle-wrapper">
     <input id="switch" type="checkbox" />
     <label for="switch" id="toggle">Toggle</label>
   </div>
   <div class="moon"></div>
-</div>
-
-<!--<div class="footer">
-  <div class="footer__links">
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="camp.html">Camp</a>
-    <a href="classes.html">Classes</a>
-    <a href="coaching.html">1-on-1</a>
-    <a href="contact.html">Contact</a>
-  </div>
-  <div class="switch-wrapper">
-    <div class="sun"></div>
-    <div class="toggle-wrapper">
-      <input type="checkbox" id="switch">
-      <label for="switch"></label>
-    </div>
-    <div class="moon"></div>
-  </div>
 </div>-->
+
+<footer class="footer">
+  <div class="footer__links">
+    {% for link in site.navbar %}
+    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+      <span class="text">{{link.title}}</span>
+      <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+    </a>
+    {% endfor %}
+  </div>
+</footer>
