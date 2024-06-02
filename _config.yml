@@ -17,6 +17,15 @@ social:
     url: https://twitter.com/SimplifiedSD
   - title: facebook
     url: https://www.facebook.com/SD-Simplified-104980451611550
+navbar:
+  - title: home
+    url: https://www.sdsimplified.com
+  - title: bootcamp
+    url: https://www.sdsimplified.com/bootcamp
+  - title: courses
+    url: https://www.udemy.com/user/sd-simplified/
+  - title: 1-on-1
+    url: https://sdsimplified.setmore.com/beta
 #Google Analytics
 google_analytics: UA-203130337-1
 
