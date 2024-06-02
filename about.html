@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="site">
+  {% include switch.html %}
+  {% include about.html %}
+  <!-- {% include other-projects.html %} -->
+  {% include footer.html %}
+  {% include top-button.html %}
+  <!-- including google analytics -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+</div>

@@ -26,6 +26,8 @@ navbar:
     url: https://www.udemy.com/user/sd-simplified/
   - title: 1-on-1
     url: https://sdsimplified.setmore.com/beta
+  - title: about us
+    url: https://www.sdsimplified.com/about
 #Google Analytics
 google_analytics: UA-203130337-1
 
